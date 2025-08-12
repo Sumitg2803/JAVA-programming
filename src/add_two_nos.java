@@ -10,5 +10,6 @@ public class add_two_nos {
 
         int sum= a+b;
         System.out.println("Total = " + sum);
+
     }
 }
